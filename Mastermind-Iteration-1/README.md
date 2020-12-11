@@ -1,8 +1,11 @@
 # Problems - Mastermind
 
 *We create a game using data structures, a program that allows a user to play Mastermind on the commandline.
+
 *We use digits 1 to 8 instead of colours.
+
 *The game(code master) generates a random 4-digit code.
+
 *The player(code breaker) gets 12 turns to guess the 4-digit code set by the (code master).
 
 ### To Run
