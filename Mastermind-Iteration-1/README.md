@@ -1,8 +1,9 @@
 # Problems - Mastermind
 
-* Modify `mastermind.py` to solve the problem as stated in the topic content.
-* You can run the program using the instructions in *To Run* below.
-* You can test technical correctness by running the unit tests as in the section *To Test* below.
+*We create a game using data structures, a program that allows a user to play Mastermind on the commandline.
+*We use digits 1 to 8 instead of colours.
+*The game(code master) generates a random 4-digit code.
+*The player(code breaker) gets 12 turns to guess the 4-digit code set by the (code master).
 
 ### To Run
 
